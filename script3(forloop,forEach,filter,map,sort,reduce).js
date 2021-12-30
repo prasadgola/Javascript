@@ -66,6 +66,9 @@ const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
 // const selected = companies.filter(company => (company.start >= 1980 && company.start < 1990))
 // console.log(selected)
 
+
+// Map(it cannot be used with object as same as it is used with arrays)
+
 // const selected = companies.map(function (company) {
 // 	return company.name
 // })
